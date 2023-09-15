@@ -1,0 +1,16 @@
+{
+    "name": "volantis/entity",
+    "type": "package",
+    "description": "A library for building and managing fieldable entities.",
+    "website": "https://volantis.dev",
+    "authors": [{
+        "name": "Ben McClure",
+        "email": "ben@volantisdev.com"
+    }],
+    "require": {
+        "volantis/gui": "^1.0 || dev-main"
+    },
+    "libraries": {
+        "Entity": "lib"
+    }
+}
